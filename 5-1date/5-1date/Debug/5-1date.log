@@ -1,0 +1,3 @@
+﻿  源.cpp
+d:\study\c\5-1date\5-1date\源.cpp(49): warning C4715: “Date::count”: 不是所有的控件路径都返回值
+  5-1date.vcxproj -> D:\study\C\5-1date\Debug\5-1date.exe
